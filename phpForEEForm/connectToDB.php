@@ -1,4 +1,5 @@
 <?PHP
+//Auth deleted for Sec. purposes
 $servername = "";
 $username = "";
 $password = "";
